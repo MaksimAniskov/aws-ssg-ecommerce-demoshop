@@ -1,0 +1,16 @@
+{
+    "name": "Demo Shop",
+    "creditsHtml": "Visit <a href=\"https://github.com/MaksimAniskov/aws-ssg-ecommerce\" target=\"_blank\">project page at GitHub</a>.<br/>The shop logo uses icon made by <a href=\"https://www.flaticon.com/authors/freepik\" title=\"Freepik\" target=\"_blank\">Freepik</a> from <a href=\"https://www.flaticon.com/\" title=\"Flaticon\" target=\"_blank\">www.flaticon.com</a>",
+    "meta": {
+        "title": "Demo of SSG e-commerce solution on AWS",
+        "description": "Get up and running with your next e-commerce website."
+    },
+    "currency": {
+        "code": "EUR",
+        "symbol": "€",
+        "isZeroDecimal": false
+    },
+    "stripe_example": {
+        "publicKey": "pk_test_123abcdefghijklmnopqrstvuwxyz1234567890abcdefghijklmnopqrstvuwxyz1234567890abcdefghijklmnopqrstvuwx"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "cost": {
+        "byCategory": {
+            "bulky": {
+                "byCountry": {
+                    "SI": 35
+                },
+                "byContinent": {
+                    "EU": 40
+                },
+                "default": 250
+            }
+        },
+        "byCountry": {
+            "SI": 5.5
+        },
+        "byContinent": {
+            "EU": 10
+        },
+        "default": 125
+    },
+    "restrictions": {
+        "byCategory": {
+            "superbulky": {
+                "byCountry": {
+                    "SI": null
+                },
+                "default": "We do not ship super bulky items outside of Slovenia"
+            }
+        },
+        "byCountry": {
+            "KP": "We do not ship to North Korea"
+        },
+        "byContinent": {
+            "AN": "We do not ship to Antarctica"
+        }
+    }
+}
